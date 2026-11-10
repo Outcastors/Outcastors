@@ -7,9 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Aspiring+Purple+Teamer;Security+Researcher;Bug+Hunter;Builder+of+Rogue)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Outcastors-181717?style=for-the-badge&logo=github)](https://github.com/Outcastors)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhissek--sah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhissek-sah-949473270)
-[![Email](https://img.shields.io/badge/Email-twilight%40asuralegion.org-D14836?style=for-the-badge&logo=gmail)](mailto:twilight@asuralegion.org)
-[![Website](https://img.shields.io/badge/Website-asuralegion.org-FF2D4D?style=for-the-badge&logo=googlechrome)](https://asuralegion.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhisek--sah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhisek-sah-949473270)
+[![Email](https://img.shields.io/badge/Email-xgshadow%40ptoton.me-D14836?style=for-the-badge&logo=gmail)](mailto:xgshadow@ptoton.me)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join_Outcastors-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/D5WPKkfmLFC66wuaPTHhiN)
 
 </div>
@@ -69,6 +68,5 @@ Cybersecurity community for self-learners — free resources, job opportunities,
 
 ## 📫 Connect
 
-- 💼 LinkedIn: [abhissek-sah](https://www.linkedin.com/in/abhissek-sah-949473270)
-- ✉️ Email: [twilight@asuralegion.org](mailto:twilight@asuralegion.org)
-- 🌐 Website: [asuralegion.org](https://asuralegion.org)
+- 💼 LinkedIn: [abhisek-sah](https://www.linkedin.com/in/abhisek-sah-949473270)
+- ✉️ Email: [xgshadow@ptoton.me](mailto:xgshadow@ptoton.me)
