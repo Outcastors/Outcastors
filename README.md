@@ -1,3 +1,5 @@
+![Outcastors banner](https://capsule-render.vercel.app/api?type=waving&color=FF2D4D&height=180&section=header&text=Outcastors&fontSize=48&fontColor=ffffff&animation=fadeIn)
+
 <div align="center">
 
 # Hi there, I'm Twilight 👋
@@ -10,6 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhisek--sah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhisek-sah-949473270)
 [![Email](https://img.shields.io/badge/Email-xgshadow%40ptoton.me-D14836?style=for-the-badge&logo=gmail)](mailto:xgshadow@ptoton.me)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join_Outcastors-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/D5WPKkfmLFC66wuaPTHhiN)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Outcastors&color=FF2D4D&style=flat-square)
 
 </div>
 
@@ -52,11 +56,23 @@ rule      = authorized targets only — always ✓
 | **Bug Bounty Toolkit v2.0** | 403 bypasses, param fuzzing, directory brute-forcing — detection only, you pull the trigger. 🚧 Next repo to publish |
 | **Omni-Quant Core** | All-in-one market analysis workstation. 🚧 Next repo to publish |
 
+## 🎯 Goals for 2027
+
+- 🎓 **Erasmus Mundus CYBERSURE** — fully funded cybersecurity masters abroad
+- 🤝 **Grow Outcastors** — more free resources, labs and jobs for self-learners
+- 🚀 **Ship more open-source tools** — Rogue was just the start
+
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Outcastors&theme=dark)](https://github.com/Outcastors)
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Outcastors&theme=dark)](https://github.com/Outcastors)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Outcastors&theme=dark)](https://github.com/Outcastors)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Outcastors/Outcastors/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Outcastors/Outcastors/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Outcastors/Outcastors/output/github-snake.svg">
+</picture>
 
 ## 🤝 Outcastors Community
 
