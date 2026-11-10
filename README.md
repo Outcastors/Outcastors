@@ -27,7 +27,6 @@ focus     = [web security, bug bounty, pentesting]
 learning  = purple teaming — attack + defence
 building  = Rogue — OpenCode workstation for Linux
 community = Outcastors — free resources, labs & jobs
-goal 2027 = Erasmus Mundus CYBERSURE 🎓
 motto     = "Break it. Understand it. Defend it."
 rule      = authorized targets only — always ✓
 ```
@@ -58,7 +57,6 @@ rule      = authorized targets only — always ✓
 
 ## 🎯 Goals for 2027
 
-- 🎓 **Erasmus Mundus CYBERSURE** — fully funded cybersecurity masters abroad
 - 🤝 **Grow Outcastors** — more free resources, labs and jobs for self-learners
 - 🚀 **Ship more open-source tools** — Rogue was just the start
 
