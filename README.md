@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Outcastors-181717?style=for-the-badge&logo=github)](https://github.com/Outcastors)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhisek--sah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhisek-sah-949473270)
-[![Email](https://img.shields.io/badge/Email-xgshadow%40ptoton.me-D14836?style=for-the-badge&logo=gmail)](mailto:xgshadow@ptoton.me)
+[![Email](https://img.shields.io/badge/Email-xgshadow%40proton.me-D14836?style=for-the-badge&logo=gmail)](mailto:xgshadow@proton.me)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join_Outcastors-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/D5WPKkfmLFC66wuaPTHhiN)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Outcastors&color=FF2D4D&style=flat-square)
@@ -85,4 +85,4 @@ Cybersecurity community for self-learners — free resources, job opportunities,
 ## 📫 Connect
 
 - 💼 LinkedIn: [abhisek-sah](https://www.linkedin.com/in/abhisek-sah-949473270)
-- ✉️ Email: [xgshadow@ptoton.me](mailto:xgshadow@ptoton.me)
+- ✉️ Email: [xgshadow@proton.me](mailto:xgshadow@proton.me)
